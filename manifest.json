@@ -1,0 +1,8 @@
+{
+    "permissions": ["identity"],
+    "oauth2": {
+      "client_id": "<client ID>",
+      "scopes": ["openid", "email", "profile"]
+    }
+  }
+  
